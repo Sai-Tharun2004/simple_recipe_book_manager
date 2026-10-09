@@ -1,0 +1,4 @@
+Total recipes: 2
+Vegetarian recipes: 2
+Nonvegetarian recipes: 0
+Favourite recipes: 1
